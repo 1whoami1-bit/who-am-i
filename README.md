@@ -18,7 +18,7 @@
 </div>
 
 <div id="snake" align="center">
-    ![Snake animation](https://github.com/cebrtyonn/cebrtyonn/blob/main/github-snake.svg)
+    <img src="https://github.com/cebrtyonn/cebrtyonn/blob/main/github-snake.svg" alt="Snake"/>
 </div>
 ---
 
