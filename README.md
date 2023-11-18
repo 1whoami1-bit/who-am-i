@@ -17,8 +17,9 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/cebrtyonn/cebrtyonn/blob/main/github-snake.svg)
-
+<div id="snake" align="center">
+    ![Snake animation](https://github.com/cebrtyonn/cebrtyonn/blob/main/github-snake.svg)
+</div>
 ---
 
 ### About Me
