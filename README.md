@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>👋 Hi! I'm Cebrtyonn.</h1>
-    <h3>Full Stack Developer</h3>
+    <h3>Web and Web3 Developer</h3>
 </div>
 
 <div id="socials" align="center">
