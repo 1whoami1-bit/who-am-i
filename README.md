@@ -30,6 +30,8 @@
 
 💬 discord • [cebrtyonn](https://cebrtyonn/discord)
 
+---
+
 ### My stat
 
 <div id="stat" align="center">
