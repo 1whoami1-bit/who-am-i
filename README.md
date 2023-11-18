@@ -20,6 +20,7 @@
 <div id="snake" align="center">
     <img src="https://github.com/cebrtyonn/cebrtyonn/blob/main/github-snake.svg" alt="Snake"/>
 </div>
+
 ---
 
 ### About Me
