@@ -11,7 +11,7 @@
 
 ---
 
-### About me
+### About Me
 - 🌱 I’m currently learning **Web3, Front-End**.
 - 🌍 I speak **English**.
 
@@ -24,7 +24,7 @@
 - JavaScript
 ---
 
-### Contact
+### Contact Me
 
 🐦 twitter • [@cebrtyonn](https://cebrtyonn/twitter)  
 
